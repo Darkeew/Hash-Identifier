@@ -1,9 +1,9 @@
-## Hash-Identifier made by Darkeew
-# Libraries needed:
+# Hash-Identifier made by Darkeew
+## Libraries needed:
 ```
 pip install pysimplegui
 ```
-# Execution:
+## Execution:
 ```
 python3 gui.py
 ```
